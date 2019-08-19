@@ -1,9 +1,9 @@
 # Config
-rss:            # link
-favicon: https://i.loli.net/2017/11/26/5a19c0b50432e.png
-blog_logo: 
-header_image: https://i.loli.net/2017/11/26/5a19c56faa29f.jpg
-bio: This is a demo
+rss: # link
+favicon: https://i.screenshot.net/z8e1rc8
+blog_logo: https://i.screenshot.net/z8e1rc8
+header_image: https://i.screenshot.net/7y8zrak
+bio: 想做一个会写码的挣钱机器
 post_toc: true
 
 # Keywords
@@ -11,28 +11,29 @@ keywords: hexo, casper, ghost, theme
 
 # Menu
 menu:
+  HOME: /
   ABOUT: /about
   ARCHIVES: /archives
   # you can add here
 
 # author
-author_image:   # link
-author_bio: 
-author_location: 
+author_image: https://i.screenshot.net/07mqobe?9ad93e3b2253e24e89e661422713f048
+author_bio: 01不是包子脸啊
+author_location:
 
 # Social Links
 social:
-  weibo: https://weibo.com/xzhih
-  github: https://github.com/xzhih
-  twitter: https://twitter.com
-  facebook: https://facebook
-  telegram:
-  bilibili: 
-  youtube: 
+  weibo: https://weibo.com/2164694963/profile?rightmod=1&wvr=6&mod=personinfo
+  github: https://github.com/linyi531
+  # twitter: https://twitter.com
+  # facebook: https://facebook
+  telegram: https://www.instagram.com/linyi531/
+  # bilibili:
+  # youtube:
   # You only can use that I have added, I will keep adding
 
 # Footer Links
-footer_text: 
+footer_text:
   # title: link
   # 粤ICP备xxxxxxx号-x: http://www.miitbeian.gov.cn
   # 粤公网安备xxxxxxx号: http://www.beian.gov.cn
@@ -45,7 +46,7 @@ widgets:
   # This is a simple theme, I think 3 is enough.
 
 # Post page fload header
-floadheader: false
+floadheader: true
 
 # Gallery
 # https://github.com/sachinchoolur/lightgallery.js
@@ -63,11 +64,11 @@ local_search: true
 # https://valine.js.org
 comment: true
 valine:
-  notify: false # mail notifier , https://github.com/xCss/Valine/wiki 
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
-  appId: # your leancloud application appid
-  appKey: # your leancloud application appkey
-  placeholder: Just go go # comment box placeholder
+  appId: RKl7DjTGeDG8TMedBcYhiagz-gzGzoHsz
+  appKey: pcwdBNPnrqDUcLyj3H0TaeHy
+  placeholder: 爱我就留下评论吧～～ # comment box placeholder
   pageSize: 10 # pagination size
   avatar: mm # gravatar style
 
@@ -76,11 +77,11 @@ valine:
 manifest: false
 service_workers: false
 
-navColor: '3c484e'
+navColor: "3c484e"
 
 # Baidu Push
 baidu: false
 
 # Google Analytics
-googleAnalytics: false
-GA_TRACKING_ID: UA-XXXXXXXXXX-1
+googleAnalytics: true
+GA_TRACKING_ID: UA-145838942-1
