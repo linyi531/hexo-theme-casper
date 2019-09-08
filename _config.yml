@@ -1,7 +1,7 @@
 # Config
 rss: # link
-favicon: https://i.screenshot.net/z8e1rc8
-blog_logo: https://i.screenshot.net/z8e1rc8
+favicon: https://tva1.sinaimg.cn/large/006y8mN6ly1g6sjqjrb9wj30jj0jjjss.jpg
+blog_logo: https://tva1.sinaimg.cn/large/006y8mN6ly1g6sjqjrb9wj30jj0jjjss.jpg
 header_image: https://i.screenshot.net/7y8zrak
 bio: 想做一个会写码的挣钱机器
 post_toc: true
@@ -25,7 +25,7 @@ author_location:
 social:
   weibo: https://weibo.com/2164694963/profile?rightmod=1&wvr=6&mod=personinfo
   github: https://github.com/linyi531
-  # twitter: https://twitter.com
+  twitter: https://twitter.com/nFywOCNPid75cl5
   # facebook: https://facebook
   telegram: https://www.instagram.com/linyi531/
   # bilibili:
