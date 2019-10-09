@@ -17,7 +17,7 @@ menu:
   # you can add here
 
 # author
-author_image: https://tva1.sinaimg.cn/large/006y8mN6ly1g77gqlmlvoj30u013xhdt.jpg
+author_image: https://tva1.sinaimg.cn/large/006y8mN6ly1g7s1r0gh0qj30u00u0nnt.jpg
 author_bio: 01不是包子脸啊
 author_location:
 
@@ -68,7 +68,7 @@ valine:
   verify: false # Verification code
   appId: RKl7DjTGeDG8TMedBcYhiagz-gzGzoHsz
   appKey: pcwdBNPnrqDUcLyj3H0TaeHy
-  placeholder: 爱我就留下评论吧～～ # comment box placeholder
+  placeholder: 来聊聊天吧～～ # comment box placeholder
   pageSize: 10 # pagination size
   avatar: mm # gravatar style
 
